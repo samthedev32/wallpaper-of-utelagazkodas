@@ -1,5 +1,5 @@
 # wallpaper-of-utelagazkodas
-The Wallpaper of [**@Utelagazkodas**](https://github.com/Utelagazkodas)
+The Wallpaper of [***@Utelagazkodas***](https://github.com/Utelagazkodas)
 
 I've spent about 3-4 hours trying to find this xd
 
