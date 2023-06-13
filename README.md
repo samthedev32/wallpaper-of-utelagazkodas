@@ -1,8 +1,8 @@
 # wallpaper-of-utelagazkodas
 The Wallpaper of @utelagazkodas
 
-[The Original Leak](original_leak.png)
+![The Original Leak](original_leak.png)
 
-[The Wallpaper](wallpaper.jpg)
+![The Wallpaper](wallpaper.jpg)
 
-[The Overlayed Image](overlayed.png)
+![The Overlayed Image](overlayed.png)
