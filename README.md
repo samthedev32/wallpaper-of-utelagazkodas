@@ -1,5 +1,13 @@
 # wallpaper-of-utelagazkodas
-The Wallpaper of [***@Utelagazkodas***](https://github.com/Utelagazkodas)
+The Wallpapers of [***@Utelagazkodas***](https://github.com/Utelagazkodas)
+
+## Mobile Wallpaper
+
+His old phone-wallpaper
+
+![Mobile Wallpaper](mobile_wallpaper.jpg)
+
+## Desktop Wallpaper
 
 I've spent about 3-4 hours trying to find this xd
 
