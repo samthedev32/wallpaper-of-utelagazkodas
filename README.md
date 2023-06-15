@@ -16,6 +16,3 @@ This is the ORIGINAL (only) leak i've had
 
 The Wallpaper
 ![The Wallpaper](wallpaper.jpg)
-
-The **Pixel-Perfect** *Overlayed* Image
-![The Overlayed Image](overlayed.png)
