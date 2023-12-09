@@ -9,6 +9,8 @@ His old phone-wallpaper
 
 ## Desktop Wallpaper
 
+### Old
+
 I've spent about 3-4 hours trying to find this xd
 
 This is the ORIGINAL (only) leak i've had
@@ -16,3 +18,9 @@ This is the ORIGINAL (only) leak i've had
 
 The Wallpaper
 ![The Wallpaper](wallpaper.jpg)
+
+### New
+
+He leaked a ton, so this was less than 3 minutes to find
+
+![The New-Old Wallpaper](new-old.jpeg)
