@@ -24,3 +24,9 @@ The Wallpaper
 He leaked a ton, so this was less than 3 minutes to find
 
 ![The New-Old Wallpaper](new_old.jpg)
+
+### Current
+
+Unfortunately for you weebs, this one is the xfce mouse
+
+![XFCE Mouse](wallpaper_xfce.svg)
